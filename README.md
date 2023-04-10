@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">Fullstack Dev from Argentina 🚀</h3>
 
-<p align="center">Im a technology enthusiast who loves to stay up-to-date on the latest trends in the field. My technical education and skills include <strong>JavaScript | HTML | CSS | Tailwind | React | Redux | Redux-Toolkit | Node.js | Express | Sequelize | PostgreSQL</strong>, and I can also work effectively in a team using the Scrum methodology. I'm eager to apply these skills in the workplace. I'm a hardworking, creative, and dedicated worker. I'm always willing to learn something new, and I'm confident that I can make a valuable contribution to any IT team. I'm ready to take on new challenges and learn whatever it takes to be successful.</p>
+<p align="center">Im a technology enthusiast who loves to stay up-to-date on the latest trends in the field. My technical education and skills include <strong>JavaScript | HTML | CSS | Tailwind | React | Redux | Redux-Toolkit | Node.js | Express | Sequelize | PostgreSQL</strong>. I can also work effectively in a team using the Scrum methodology. I'm eager to apply these skills in the workplace. I'm a hardworking, creative, and dedicated worker. I'm always willing to learn something new, and I'm confident that I can make a valuable contribution to any IT team. I'm ready to take on new challenges and learn whatever it takes to be successful.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
